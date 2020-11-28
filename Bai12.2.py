@@ -3,7 +3,7 @@ import string
 #Bảng chữ in thường
 a=string.ascii_lowercase
 #Bảng chữ in hoa
-b= string.ascii_uppercase
+b=string.ascii_uppercase
 #Chọn ngẫu nhiên 1 chữ in hoa
 t=random.choice(b)
 #Random tuổi
